@@ -1,0 +1,3 @@
+loader.load("models/zombie.glb", gltf => { scene.add(gltf.scene); });
+loader.load("models/pistol.glb", gltf => { scene.add(gltf.scene); });
+loader.load("models/building.glb", gltf => { scene.add(gltf.scene); });
